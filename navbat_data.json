@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": 7419862155,
+      "username": "maxmudvl",
+      "first_name": "Abdulahad"
+    },
+    {
+      "id": 6259714051,
+      "username": "maxmudovl1",
+      "first_name": "maxmudov",
+      "joined_date": "2025-10-27T09:48:51.289666"
+    },
+    {
+      "id": 6308782082,
+      "username": "Dolixonov",
+      "first_name": "Dolixonov",
+      "joined_date": "2025-10-27T10:02:03.423923"
+    },
+    {
+      "id": 824744076,
+      "username": "Muhammadyusuf_Engineer",
+      "first_name": "Muhammadyusuf",
+      "joined_date": "2025-10-27T10:05:00.773000"
+    },
+    {
+      "id": 5947470966,
+      "username": "vawthen",
+      "first_name": "A'zamjon",
+      "joined_date": "2025-10-27T10:12:56.512172"
+    },
+    {
+      "id": 5681371620,
+      "username": "lutfullohai",
+      "first_name": "Lutfulloh",
+      "joined_date": "2025-10-27T11:34:49.785085"
+    },
+    {
+      "id": 1708744831,
+      "username": "Im_Valiyev",
+      "first_name": "Valiyev_A",
+      "joined_date": "2025-10-27T11:52:39.473859"
+    }
+  ],
+  "available_users": [
+    {
+      "id": 6308782082,
+      "username": "Dolixonov",
+      "first_name": "Dolixonov",
+      "joined_date": "2025-10-27T10:02:03.423923"
+    }
+  ],
+  "current_duty": [
+    {
+      "id": 1708744831,
+      "username": "Im_Valiyev",
+      "first_name": "Valiyev_A",
+      "joined_date": "2025-10-27T11:52:39.473859"
+    },
+    {
+      "id": 5947470966,
+      "username": "vawthen",
+      "first_name": "A'zamjon",
+      "joined_date": "2025-10-27T10:12:56.512172"
+    }
+  ],
+  "next_duty_date": "2025-11-03T17:24:50.180598",
+  "duty_history": [
+    {
+      "date": "2025-10-27T17:01:22.856271",
+      "officers": [
+        {
+          "id": 5681371620,
+          "username": "lutfullohai",
+          "first_name": "Lutfulloh",
+          "joined_date": "2025-10-27T11:34:49.785085"
+        },
+        {
+          "id": 7419862155,
+          "username": "maxmudvl",
+          "first_name": "Abdulahad"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:12:05.998146",
+      "officers": [
+        {
+          "id": 1708744831,
+          "username": "Im_Valiyev",
+          "first_name": "Valiyev_A",
+          "joined_date": "2025-10-27T11:52:39.473859"
+        },
+        {
+          "id": 824744076,
+          "username": "Muhammadyusuf_Engineer",
+          "first_name": "Muhammadyusuf",
+          "joined_date": "2025-10-27T10:05:00.773000"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:12:35.405027",
+      "officers": [
+        {
+          "id": 5947470966,
+          "username": "vawthen",
+          "first_name": "A'zamjon",
+          "joined_date": "2025-10-27T10:12:56.512172"
+        },
+        {
+          "id": 5681371620,
+          "username": "lutfullohai",
+          "first_name": "Lutfulloh",
+          "joined_date": "2025-10-27T11:34:49.785085"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:13:08.946806",
+      "officers": [
+        {
+          "id": 6308782082,
+          "username": "Dolixonov",
+          "first_name": "Dolixonov",
+          "joined_date": "2025-10-27T10:02:03.423923"
+        },
+        {
+          "id": 5681371620,
+          "username": "lutfullohai",
+          "first_name": "Lutfulloh",
+          "joined_date": "2025-10-27T11:34:49.785085"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:24:38.419419",
+      "officers": [
+        {
+          "id": 7419862155,
+          "username": "maxmudvl",
+          "first_name": "Abdulahad"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:24:40.531485",
+      "officers": [
+        {
+          "id": 5947470966,
+          "username": "vawthen",
+          "first_name": "A'zamjon",
+          "joined_date": "2025-10-27T10:12:56.512172"
+        },
+        {
+          "id": 6259714051,
+          "username": "maxmudovl1",
+          "first_name": "maxmudov",
+          "joined_date": "2025-10-27T09:48:51.289666"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:24:42.649776",
+      "officers": [
+        {
+          "id": 1708744831,
+          "username": "Im_Valiyev",
+          "first_name": "Valiyev_A",
+          "joined_date": "2025-10-27T11:52:39.473859"
+        },
+        {
+          "id": 824744076,
+          "username": "Muhammadyusuf_Engineer",
+          "first_name": "Muhammadyusuf",
+          "joined_date": "2025-10-27T10:05:00.773000"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:24:44.521784",
+      "officers": [
+        {
+          "id": 6308782082,
+          "username": "Dolixonov",
+          "first_name": "Dolixonov",
+          "joined_date": "2025-10-27T10:02:03.423923"
+        },
+        {
+          "id": 5681371620,
+          "username": "lutfullohai",
+          "first_name": "Lutfulloh",
+          "joined_date": "2025-10-27T11:34:49.785085"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:24:46.147921",
+      "officers": [
+        {
+          "id": 7419862155,
+          "username": "maxmudvl",
+          "first_name": "Abdulahad"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:24:47.282604",
+      "officers": [
+        {
+          "id": 5681371620,
+          "username": "lutfullohai",
+          "first_name": "Lutfulloh",
+          "joined_date": "2025-10-27T11:34:49.785085"
+        },
+        {
+          "id": 824744076,
+          "username": "Muhammadyusuf_Engineer",
+          "first_name": "Muhammadyusuf",
+          "joined_date": "2025-10-27T10:05:00.773000"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:24:48.547156",
+      "officers": [
+        {
+          "id": 7419862155,
+          "username": "maxmudvl",
+          "first_name": "Abdulahad"
+        },
+        {
+          "id": 6259714051,
+          "username": "maxmudovl1",
+          "first_name": "maxmudov",
+          "joined_date": "2025-10-27T09:48:51.289666"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27T17:24:50.180641",
+      "officers": [
+        {
+          "id": 1708744831,
+          "username": "Im_Valiyev",
+          "first_name": "Valiyev_A",
+          "joined_date": "2025-10-27T11:52:39.473859"
+        },
+        {
+          "id": 5947470966,
+          "username": "vawthen",
+          "first_name": "A'zamjon",
+          "joined_date": "2025-10-27T10:12:56.512172"
+        }
+      ]
+    }
+  ]
+}
